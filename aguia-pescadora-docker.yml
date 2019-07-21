@@ -11,3 +11,5 @@
   roles:
     - role: "nickjj.docker"
       tags: ["docker"]
+    - role: "kibatic.traefik"
+      tags: ["traefik"]
